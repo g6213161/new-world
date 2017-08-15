@@ -1,1 +1,3 @@
 # new-world
+
+KONNICHIWA!
